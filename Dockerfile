@@ -1,6 +1,5 @@
-#FROM frolvlad/alpine-python3
-#https://github.com/frol/docker-alpine-python3/blob/master/Dockerfile
-#FROM alpine:3.3
+#refer:   frolvlad/alpine-python3
+#refaddr: https://github.com/frol/docker-alpine-python3/blob/master/Dockerfile
 
 FROM alpine
 
